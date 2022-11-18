@@ -1,0 +1,28 @@
+.section{
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    justify-content:space-around;
+}
+.nav{
+    /* background-color: black; */
+    width:100px;
+}
+img{
+    width: 70px;
+}
+.content{
+    width: 100%;
+    text-align: right;
+    padding: 10px;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: large;
+    padding: 10px;
+}
+a:hover{
+    background-color: rgb(59, 55, 55);
+}
